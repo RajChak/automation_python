@@ -1,0 +1,10 @@
+{
+    "download_path":"path\\Downloads",
+    "credential":{"username":"password"},
+    "url":"https://url/login",
+    "case_folder": "path\Python_Automation\\Case_Files",
+    "receiver_email":["example.com"],
+    "subject":"Updated case details "
+    
+    
+  }
